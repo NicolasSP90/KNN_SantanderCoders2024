@@ -4,6 +4,8 @@
 ![ipykernel](https://img.shields.io/badge/ipykernel-3670A0?style=for-the-badge)
 ![draw.io](https://img.shields.io/badge/draw.io-F2931E?style=for-the-badge)
 
+---
+
 # Visão Geral
 Terminada a disciplina Lógica de Programação da trilha de Engenharia de Dados do Santander Coders 2024, da parceria entre Ada Tech e Santander Open Academy. Tivemos o desafio de criar e implementar um algoritmo de KNN a partir de conceitos básicos de programação e lógica e sem o auxílio de bibliotecas externas.
 
